@@ -1,3 +1,3 @@
 # Emerson Flom
-I'm a current Computer Science major at Colorado Mesa University. I am finishing my last semester currently. I am also working on a Deck-Building Tower Defense Game as a side project, currently called "Untitled Game".
+I'm a software engineer situated in Denver, Colorado. I went to Colorado Mesa University where I received a Bachelor's Degree in Computer Science with a Minor in Mathematics and a Cybersecurity certification. I'm currently looking for local and remote development work.
 
